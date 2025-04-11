@@ -1,0 +1,12 @@
+,variavel,descrição,tipo,subtipo
+0,Size (cm),Tamanho da laranja em (cm),Quantitativa,Continua
+1,Weight (g),Peso da laranja em (g),Quantitativa,Continua
+2,Brix (Sweetness),Teor de açúcar / Doçura,Quantitativa,Continua
+3,pH (Acidity),Nível de acidez,Quantitativa,Continua
+4,Softness (1-5),Maciez,Quantitativa,Discreta
+5,HarvestTime (days),Tempo decorrido após a colheita,Quantitativa,Discreta
+6,Ripeness (1-5),Escala de maturação,Quantitativa,Discreta
+7,Color,Cor da laranja,Qualitativa,Nominal
+8,Variety,Variedade da laranja,Qualitativa,Nominal
+9,Blemishes (Y/N),Presença de manchas na laranja,Qualitativa,Nominal
+10,Quality (1-5),Qualidade da laranja,Quantitativa,Discreta
